@@ -108,6 +108,5 @@ Grounded, source-aware answers from PDFs & text files.
 ## 🤝 Let’s Connect
 
 📧 Email — **pranee16502@gmail.com**  
-🔗 LinkedIn — https://www.linkedin.com/in/praneeth-villuri-a08420187  
 
 > Always happy to chat — open source, collaboration, or opportunities 🚀
