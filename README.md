@@ -2,7 +2,7 @@
 
 <p align="center">
 AI / ML Engineer • LLM Applications • Backend Systems<br>
-I build intelligent systems that solve real problems — not just demos.
+I build intelligent systems that solve real problems, not just demos.
 </p>
 
 <p align="center">
