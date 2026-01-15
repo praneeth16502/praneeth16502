@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey — I'm Praneeth</h1>
 
 <p align="center">
-AI / ML Engineer • LLM Applications • Backend Systems<br>
+Software Engineer • AI ML  • Backend Systems<br>
 I build intelligent systems that solve real problems, not just demos.
 </p>
 
