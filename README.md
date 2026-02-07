@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey — I'm Praneeth</h1>
+<h1 align="center">👋 Hey, I'm Praneeth</h1>
 
 <p align="center">
 Full-Stack Software Engineer • Backend Systems • Applied AI/ML<br>
