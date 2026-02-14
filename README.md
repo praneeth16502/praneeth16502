@@ -15,7 +15,7 @@ I build production systems end-to-end,from UI to infrastructure,not just demos.
 
 ## 🚀 What I Build
 
-- 🧩 End-to-end products — frontend, backend, APIs, and infra
+- 🧩 End-to-end products - frontend, backend, APIs, and infra
 - ⚙️ Backend and platform systems that scale and stay debuggable
 - 🧠 AI-powered features (LLMs, RAG, agents) grounded in real workflows
 - 📊 User-facing interfaces that prioritize clarity, performance, and trust
