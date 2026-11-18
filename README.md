@@ -5,6 +5,8 @@ Full stack · AI engineering · Forward deployed
 
 I build agentic products end to end, from multi-agent pipelines to the React UI, and ship them inside client environments.
 
+**Open to AI engineering, full stack and forward deployed roles.**
+
 [Portfolio](https://praneeth16502.github.io) · [Résumé](https://praneeth16502.github.io/resume.pdf) · [LinkedIn](https://linkedin.com/in/praneeth-villuri) · [pranee16502@gmail.com](mailto:pranee16502@gmail.com)
 
 ---
