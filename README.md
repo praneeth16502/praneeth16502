@@ -1,59 +1,50 @@
-<h1 align="center">👋 Hey, I'm Praneeth</h1>
+# Praneeth Villuri
 
-<p align="center">
-Full-Stack Software Engineer • Backend Systems • Applied AI/ML<br>
-I build production systems end-to-end,from UI to infrastructure,not just demos.
-</p>
+**Member of Technical Staff at [Lyzr AI](https://www.lyzr.ai)** · Bengaluru<br>
+Full stack · AI engineering · Forward deployed
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20Backend%20%7C%20Applied%20AI-blue" />
-  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-green" />
-  <img src="https://img.shields.io/badge/Currently_Building-InsightAgent-orange" />
-</p>
+I build agentic products end to end, from multi-agent pipelines to the React UI, and ship them inside client environments.
+
+[Portfolio](https://praneeth16502.github.io) · [Résumé](https://praneeth16502.github.io/resume.pdf) · [LinkedIn](https://linkedin.com/in/praneeth-villuri) · [pranee16502@gmail.com](mailto:pranee16502@gmail.com)
 
 ---
 
-## 🚀 What I Build
+### Now: Spotlight at Lyzr AI
 
-- 🧩 End-to-end products - frontend, backend, APIs, and infra
-- ⚙️ Backend and platform systems that scale and stay debuggable
-- 🧠 AI-powered features (LLMs, RAG, agents) grounded in real workflows
-- 📊 User-facing interfaces that prioritize clarity, performance, and trust
+*Mar 2026 – present*
 
-> I enjoy taking ambiguous ideas from a whiteboard to production.
+I lead end-to-end development of **Spotlight**, Lyzr's agentic CVC intelligence platform for investors, deployed at **Accenture Ventures** and used by **50+ clients**.
+
+| | |
+|---|---|
+| **AI engineering** | LangChain / LangGraph orchestration and retrieval that unify PitchBook, CB Insights, Crunchbase and LinkedIn into an **88-point explainable scoring framework**; an agentic board-deck generator that cut analyst evaluation time by **80%**; LangSmith evals and MCP servers wired into the agents |
+| **Forward deployed** | Ran the client's **1,200-scenario business UAT** for Accenture's Corporate Development rollout, tracing each failure to root cause; hardened output with entity disambiguation for citations and deterministic checks on revenue, funding and currency figures |
+| **Full stack** | React / TypeScript, FastAPI / Node.js, REST and SSE streaming, PostgreSQL / MongoDB; per-tenant feature flags (OpenFeature); AWS Lambda, Step Functions and DynamoDB ingestion jobs |
+
+### Before: SAP Analytics Cloud
+
+*Developer Associate · Jul 2023 – Feb 2026*
+
+- **Lightweight View Mode** for **2k+ enterprise tenants**, and **Horizon theming** across **100+ tenants**, in React and TypeScript
+- PyTorch pipelines classifying **5K+ quarterly reviews at 96%+ accuracy**
+- Root-cause analysis on SQL and data-lineage defects for 30+ enterprise customers, cutting L3 incidents by **30%**
+- **800+** unit and integration tests; **99.9%** View Mode stability across releases
+
+### Projects
+
+| Project | What it does | Result |
+|---|---|---|
+| [**InsightAgent**](https://github.com/praneeth16502/InsightAI-agent) | Agentic NL2SQL analytics: schema retrieval, SQL validation and self-correcting retries, with live charts | Multi-table query success **60% → 95%** |
+| [**Knowledge assistant**](https://github.com/praneeth16502/rag-knowledge-assistant) | RAG over 1,000+ documents with source attribution | **82%** Recall@5, **−40%** latency, under 2.8 s |
+
+### Stack
+
+**AI / LLM** `LangChain` `LangGraph` `LlamaIndex` `LangSmith` `MCP` `RAG` `NL2SQL` `FAISS` `PyTorch` `Hugging Face`<br>
+**Languages** `Python` `TypeScript` `JavaScript` `Java` `SQL`<br>
+**Backend & data** `FastAPI` `Node.js` `SSE` `PostgreSQL` `MongoDB` `SAP HANA`<br>
+**Frontend** `React` `Redux Toolkit` `Tailwind CSS` `Radix / shadcn`<br>
+**Infra** `AWS` `Docker` `CI/CD` `Grafana` `Splunk` `Vitest` `Playwright`
 
 ---
 
-## 🛠 Core Skills
-
-**Frontend**  
-`React` • `TypeScript` • `HTML` • `CSS` • `Component-driven UI`
-
-**Backend & Systems**  
-`Python` • `FastAPI` • `REST APIs` • `Microservices`
-
-**Applied AI**  
-`LLMs` • `RAG` • `Embeddings` • `Prompt Engineering` • `Evaluation`
-
-**Data**  
-`SQL` • `PostgreSQL` • `FAISS` • `Pandas`
-
-**Infra & DevOps**  
-`Docker` • `CI/CD` • `Git` • `Cloud-native deployment`
-
----
-
-## 📌 Current Focus
-
-- Building **InsightAgent** — an AI-powered analytics system designed for real-world use
-- Exploring system reliability, evaluation, and observability in LLM-backed products
-
----
-
-## 🤝 Open To
-
-- Founding / early-stage engineering roles
-- Full-stack or backend-heavy positions
-- Applied AI work with strong engineering fundamentals
-
-If you're building real products and care about quality, I'd love to collaborate.
+<sub>B.Tech Computer Science, Amrita School of Engineering · SAP Generative AI Developer (2026) · *Surveying Keyword Extractors*, IEEE PICET 2024</sub>
