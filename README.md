@@ -36,6 +36,7 @@ I lead end-to-end development of **Spotlight**, Lyzr's agentic CVC intelligence 
 
 | Project | What it does | Result |
 |---|---|---|
+| [**nudge**](https://github.com/praneeth16502/nudge) | Claude Code plugin: a sound and a native notification when Claude is waiting on you, only if you've switched to another app | **macOS, Linux and Windows**, 94 tests, CI on all three |
 | [**InsightAgent**](https://github.com/praneeth16502/InsightAI-agent) | Agentic NL2SQL analytics: schema retrieval, SQL validation and self-correcting retries, with live charts | Multi-table query success **60% → 95%** |
 | [**Knowledge assistant**](https://github.com/praneeth16502/rag-knowledge-assistant) | RAG over 1,000+ documents with source attribution | **82%** Recall@5, **−40%** latency, under 2.8 s |
 
